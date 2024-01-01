@@ -1,6 +1,6 @@
-# zhanglj37.github.io
+# wangy125.github.io
 
-This is the personal website of Lijin Zhang
+This is the personal website of Yue WANG
 
 https://lijinzhang.com
 
